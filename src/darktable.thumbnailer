@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=darktable-cli
+Exec=darktable-thumbnailer -s %s %i %o
+MimeType=application/x-darktable;image/x-dcraw;image/x-adobe-dng;image/x-canon-cr2;image/x-canon-crw;image/x-dcraw;image/x-fuji-raf;image/x-kodak-dcr;image/x-kodak-k25;image/x-kodak-kdc;image/x-minolta-mrw;image/x-nikon-nef;image/x-olympus-orf;image/x-panasonic-raw;image/x-pentax-pef;image/x-sigma-x3f;image/x-sony-arw;image/x-sony-sr2;image/x-sony-srf;
